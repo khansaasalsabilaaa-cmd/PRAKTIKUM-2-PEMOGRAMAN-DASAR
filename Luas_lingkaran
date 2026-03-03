@@ -53,3 +53,10 @@ int main(){ //mulai
     output();
     cout << "hasil penjumlahan = " << jumlah(15.1, 24.9, 67)
 } //selesai
+
+// library
+#include <iostream>
+using namespace std;
+
+//deklarasi global
+int p, l, luas;
