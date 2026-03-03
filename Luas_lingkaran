@@ -25,3 +25,7 @@ int main(){
 using namespace std;
 
 //deklarasi global
+int p, l;
+
+//Implementasi prosedur dan Fungsi
+
