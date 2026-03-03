@@ -31,5 +31,6 @@ int p, l;
 void input(){
     cout << "Masukkan panjang = ";
     cin >> p;
-    cout 
+    cout << "Masukkan lebar = ";
+    cin >> l;
 }
